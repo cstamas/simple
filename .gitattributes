@@ -1,0 +1,2 @@
+testfile.json filter=lfs diff=lfs merge=lfs -text
+tika-out.zip filter=lfs diff=lfs merge=lfs -text
